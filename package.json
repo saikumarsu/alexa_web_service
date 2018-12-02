@@ -1,5 +1,5 @@
 {
-  "name": "alexa-pubnub-heroku",
+  "name": "alexa_web_service",
   "version": "0.2.5",
   "description": "Alexa skill adapter as a web service on heroku",
   "engines": {
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gopal-amlekar/alexa-pubnub-heroku"
+    "url": "https://github.com/saikumarsu/alexa_web_service"
   },
   "keywords": [
     "node",
